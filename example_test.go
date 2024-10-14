@@ -9,7 +9,7 @@ import (
 )
 
 // Path to directory with models and test images. Here it's assumed it
-// points to the <https://github.com/Kagami/go-face-testdata> clone.
+// points to the <https://github.com/schmeister/go-face-testdata> clone.
 const dataDir = "testdata"
 
 // This example shows the basic usage of the package: create an
